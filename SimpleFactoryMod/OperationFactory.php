@@ -32,3 +32,4 @@ $oper->NumberB(4);
 
 $result = $oper->GetResult();
 var_dump($oper->GetResult());
+// $s = mb_strlen("zldasda","8bit");
